@@ -1,0 +1,28 @@
+{
+    "producto":[
+        {
+          "Id": 1,
+          "Descripcion": "Mouse",
+          "Precio": "30.00",
+          "Imagen": "https://www.shutterstock.com/image-photo/wireless-computer-mouse-isolated-on-260nw-95568295.jpg"
+        },
+        {
+          "Id": 2,
+          "Descripcion": "Mouse",
+          "Precio": "30.00",
+          "Imagen": "https://www.shutterstock.com/image-photo/wireless-computer-mouse-isolated-on-260nw-95568295.jpg"
+        },
+        {
+          "Id": 3 ,
+          "Descripcion": "Pantalla",
+          "Precio": "30.00",
+          "Imagen": "https://www.shutterstock.com/image-photo/wireless-computer-mouse-isolated-on-260nw-95568295.jpg"
+        },
+        {
+          "Id": 4,
+          "Descripcion": "Memoria RAM",
+          "Precio": "30.00",
+          "Imagen": "https://www.shutterstock.com/image-photo/wireless-computer-mouse-isolated-on-260nw-95568295.jpg"
+        }
+    ]
+}    
