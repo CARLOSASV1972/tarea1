@@ -14,12 +14,12 @@
         {
           "Id": 3,
           "Descripcion": "Pantalla",
-          "Precio": "30.00"      
+          "Precio": "400.00"      
         },
         {
           "Id": 4,
           "Descripcion": "Memoria RAM",
-          "Precio": "30.00"          
+          "Precio": "230.00"          
         }
     ]
 }    
